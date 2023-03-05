@@ -8,13 +8,13 @@
       <link href="/2023/03/04/first-blog/"/>
       <url>/2023/03/04/first-blog/</url>
       
-        <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">#include&lt;iostream&gt;<br><br>using namespace std;<br><br>int main()&#123;<br><br><br>return 0;<br>&#125;<br></code></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">#include&lt;iostream&gt;<br>using namespace std;<br>int main()&#123;<br>    cout &lt;&lt; &quot;Hello World!\n&quot;<br>    return 0;<br>&#125;<br></code></pre></td></tr></table></figure>]]></content>
       
       
       
         <tags>
             
-            <tag> 日常生活 </tag>
+            <tag> 琐碎时光 </tag>
             
         </tags>
       
